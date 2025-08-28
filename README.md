@@ -2,7 +2,7 @@
 <h3 align="center">💻 A Frontend Developer • 🎨 UI Designer • ⚙️ Aspiring Full-Stack Dev</h3>
 
 - 🌱 I’m currently learning **Node.js, Express, and MongoDB**
-- 🧠 Focused on UI animation using **GSAP, TailwindCSS, and Figma**
+- 🧠 Focused on UI responsiveness and seamlessness accross any devices
 - ⚡ Obsessed with building beautiful, responsive, and snappy UIs
 
 ---
