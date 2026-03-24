@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sai</h1>
-<h3 align="center">💻 A Frontend Developer • 🎨 UI Designer • ⚙️ Aspiring Full-Stack Dev</h3>
+<h1 align="center">Hi , I'm Sai</h1>
+<h3 align="center"> A Frontend Developer •  UI Designer •  Aspiring Full-Stack Dev</h3>
 
-- 🌱 I’m currently learning **Node.js, Express, and MongoDB**
-- 🧠 Focused on UI responsiveness and seamlessness accross any devices
-- ⚡ Obsessed with building beautiful, responsive, and snappy UIs
+-  I’m currently learning **Node.js, Express, and MongoDB**
+-  Focused on UI responsiveness and seamlessness accross any devices
+-  Obsessed with building beautiful, responsive, and snappy UIs
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 
 <p align="left">
   <a href="https://github.com/04Sai" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=04Sai&show_icons=true&theme=tokyonight" alt="04Sai GitHub Stats" />
