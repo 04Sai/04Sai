@@ -18,7 +18,7 @@
 ### Certificate
 
 <a href="https://www.credly.com/badges/b312df44-9ee6-443d-b8cf-2bbbe742bb04" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/00630e66-64f0-4df2-acdc-94c637a7605e/Cisco_Certified_Support_Technician_Cybersecurity.png" width="180" alt="Cisco Certified Support Technician - Cybersecurity">
+  <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="180" alt="Cisco Certified Support Technician - Cybersecurity">
 </a>
 
 ---
