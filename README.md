@@ -19,6 +19,8 @@
 
 <a href="https://www.credly.com/badges/b312df44-9ee6-443d-b8cf-2bbbe742bb04" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="180" alt="Cisco Certified Support Technician - Cybersecurity">
+  <img src="https://images.credly.com/size/340x340/images/c72cea65-b88a-4a72-bf44-dc41b04248b7/image.png" width="180" alt="Cisco Certified Ethical Hacker">
+  <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="180" alt="Cisco Certified CyberOps Associate">
 </a>
 
 ---
